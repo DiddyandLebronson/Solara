@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d4f82aa5-ab67-49f2-a7ab-56319225ac9d)
 🚀 Solara Executor - Roblox Executor Download Solara Executor
 Quick Installation
 To get started with Solara Executor, follow these simple steps:
@@ -6,10 +7,6 @@ Download Solara Executor
 Run Solara: Run the Solara.exe file to launch the executor. Description:
 🚀 Solara Executor is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay.
 Keywords: Roblox executor, script executor, Roblox hacks, Roblox mods, gaming tools, script engine, Roblox enhancements, Roblox modding 2024.
-
-About The Project
-
-Logo
 
 [Roblox Executor] - Solara
 Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
