@@ -12,21 +12,10 @@ Keywords: Roblox executor, script executor, Roblox hacks, Roblox mods, gaming to
 [Roblox Executor] - Solara
 Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
 
-Download . Site
-
 Downloads Contributors Forks Stargazers Issues License
 
 Solara Executor Preview
 
-Table of Contents
-Introduction
-Key Features
-Installation Guide
-How to Use
-Contribute
-License
-Contact Us
-Introduction
 Welcome to Solara Executor, the latest and most powerful Roblox Executor designed to elevate your gaming experience. Whether you're a developer, gamer, or modding enthusiast, Solara Executor provides the ultimate tools to modify and enhance your Roblox gameplay.
 
 Key Features
