@@ -1,4 +1,5 @@
-https://th.bing.com/th/id/OIP.cJQiob32_uWM2NFCsjLr8gHaC_?w=295&h=141&c=7&r=0&o=5&pid=1.7
+![image](https://github.com/user-attachments/assets/46fdd348-ede8-4ee5-9060-7655f90c81b4)
+
 🚀 Solara Executor - Roblox Executor Download Solara Executor
 Quick Installation
 To get started with Solara Executor, follow these simple steps:
